@@ -12,15 +12,15 @@ We introduce a novel method, DiffPhyCon, for controlling complex physical system
 
 Framework of DiffPhyCon:
 
-<a href="url"><img src="https://github.com/AI4Science-WestlakeU/pde_gen_control/blob/release/assets/figure1.png" align="center" width="800" ></a>
+<a href="url"><img src="https://github.com/AI4Science-WestlakeU/diffphycon/blob/main/assets/figure1.png" align="center" width="800" ></a>
 
 Movement and fluid field visualization on the jellyfish controlled by DiffPhyCon:
 
-<a href="url"><img src="https://github.com/AI4Science-WestlakeU/pde_gen_control/blob/release/assets/jellyfish.jpg" align="center" width="800" ></a>
+<a href="url"><img src="https://github.com/AI4Science-WestlakeU/diffphycon/blob/main/assets/jellyfish.jpg" align="center" width="800" ></a>
 
 Density of smoke (left) and control signals (middle and right) controlled by DiffPhyCon:
 
-<a href="url"><img src="https://github.com/AI4Science-WestlakeU/pde_gen_control/blob/release/assets/smoke.gif" align="center" width="800" ></a> 
+<a href="url"><img src="https://github.com/AI4Science-WestlakeU/diffphycon/blob/main/assets/smoke.gif" align="center" width="800" ></a> 
 
 <!-- Example generated trajectories and the airfoil boundary:
 
