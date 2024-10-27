@@ -1,0 +1,1 @@
+python ../inference/inference_2d_smoke.py
