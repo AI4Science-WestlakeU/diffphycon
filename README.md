@@ -4,7 +4,7 @@
 <!-- | [Poster](https://github.com/AI4Science-WestlakeU/cindm/blob/main/assets/CinDM_poster.pdf)  -->
 <!-- | [Tweet](https://twitter.com/tailin_wu/status/1747259448635367756)  -->
 
-Official repo for the paper [A Generative Approach to Control Complex Physical Systems](https://openreview.net/forum?id=MbZuh8L0Xg).<br />
+Official repo for the paper [DiffPhyCon: A Generative Approach to Control Complex Physical Systems](https://openreview.net/forum?id=MbZuh8L0Xg).<br />
 [Long Wei*](https://longweizju.github.io/), [Peiyan Hu*](https://peiyannn.github.io/), [Ruiqi Feng*](https://weenming.github.io/), [Haodong Feng](https://scholar.google.com/citations?user=0GOKl_gAAAAJ&hl=en), [Yixuan Du](https://openreview.net/profile?id=~Yixuan_Du1), [Tao Zhang](https://zhangtao167.github.io), [Rui Wang](https://openreview.net/profile?id=~Rui_Wang56), [Yue Wang](https://www.microsoft.com/en-us/research/people/yuwang5/), [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html), [Tailin Wu](https://tailin.org/)<br />
 NeurIPS 2024. 
 
@@ -128,8 +128,8 @@ If you find our work and/or our code useful, please cite us via:
 
 ```bibtex
 @inproceedings{
-wei2024generative,
-title={A Generative Approach to Control Complex Physical Systems},
+wei2024diffphycon,
+title={DiffPhyCon: A Generative Approach to Control Complex Physical Systems},
 author={Wei, Long and Hu, Peiyan and Feng, Ruiqi and Feng, Haodong and Du, Yixuan and Zhang, Tao and Wang, Rui and Wang, Yue and Ma, Zhi-Ming and Wu, Tailin},
 booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
 year={2024},
