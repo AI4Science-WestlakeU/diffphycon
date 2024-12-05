@@ -122,6 +122,12 @@ In the scripts/ folder, run the following script:
 bash smoke_inference.sh
 ```
 
+## Related Projects
+
+* [CinDM](https://github.com/AI4Science-WestlakeU/cindm) (ICLR 2024 spotlight): We introduce a method that uses compositional generative models to design boundaries and initial states significantly more complex than the ones seen in training for physical simulations.
+  
+* [LAMP](https://github.com/snap-stanford/lamp) (ICLR 2023 spotlight): First fully DL-based surrogate model that jointly optimizes spatial resolutions to reduce computational cost and learns the evolution model, learned via reinforcement learning.
+
 
 ## Citation
 If you find our work and/or our code useful, please cite us via:
