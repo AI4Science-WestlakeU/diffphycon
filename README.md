@@ -1,6 +1,6 @@
 # DiffPhyCon: A Generative Approach to Control Complex Physical Systems (NeurIPS 2024)
 
-[Paper](https://openreview.net/forum?id=MbZuh8L0Xg) | [arXiv](https://web3.arxiv.org/abs/2407.06494) 
+[Paper](https://openreview.net/forum?id=MbZuh8L0Xg) | [arXiv](https://web3.arxiv.org/abs/2407.06494) | [Project page](https://ai4s.lab.westlake.edu.cn/projects/diffphycon/)
 <!-- | [Poster](https://github.com/AI4Science-WestlakeU/cindm/blob/main/assets/CinDM_poster.pdf)  -->
 <!-- | [Tweet](https://twitter.com/tailin_wu/status/1747259448635367756)  -->
 
