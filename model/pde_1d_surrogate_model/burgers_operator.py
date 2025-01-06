@@ -16,11 +16,12 @@ try:
     from scripts.utils import *
     from scripts.burgers_numeric import *
     from scripts.models import *
+    from scripts.data_burgers_1d import Burgers1DSimple, Burgers
 except:
     from .scripts.utils import *
     from .scripts.burgers_numeric import *
     from .scripts.models import *
-from .data_burgers_1d import Burgers1DSimple, Burgers
+    from .scripts.data_burgers_1d import Burgers1DSimple, Burgers
 import argparse
 import pdb
 RESCALER = RESCALER_1e5 = 6.4519
