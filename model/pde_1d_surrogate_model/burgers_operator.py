@@ -20,7 +20,7 @@ except:
     from .scripts.utils import *
     from .scripts.burgers_numeric import *
     from .scripts.models import *
-from pde_gen_control.data_burgers_1d import Burgers1DSimple, Burgers
+from .data_burgers_1d import Burgers1DSimple, Burgers
 import argparse
 import pdb
 RESCALER = RESCALER_1e5 = 6.4519
