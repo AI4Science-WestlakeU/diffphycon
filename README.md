@@ -123,6 +123,7 @@ bash smoke_inference.sh
 ```
 
 ## Related Projects
+* [CL-DiffPhyCon](https://github.com/AI4Science-WestlakeU/CL_DiffPhyCon) (ICLR 2025): We introduce an improved, closed-loop version of DiffPhyCon. It has an asynchronous denoising schedule for physical systems control tasks and achieves closed-loop control with significant speedup of sampling efficiency.
 
 * [CinDM](https://github.com/AI4Science-WestlakeU/cindm) (ICLR 2024 spotlight): We introduce a method that uses compositional generative models to design boundaries and initial states significantly more complex than the ones seen in training for physical simulations.
   
