@@ -136,11 +136,11 @@ If you find our work and/or our code useful, please cite us via:
 
 ```bibtex
 @inproceedings{
-wei2024diffphycon,
-title={DiffPhyCon: A Generative Approach to Control Complex Physical Systems},
-author={Wei, Long and Hu, Peiyan and Feng, Ruiqi and Feng, Haodong and Du, Yixuan and Zhang, Tao and Wang, Rui and Wang, Yue and Ma, Zhi-Ming and Wu, Tailin},
-booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-year={2024},
-url={https://openreview.net/forum?id=MbZuh8L0Xg}
+  wei2024diffphycon,
+  title={DiffPhyCon: A Generative Approach to Control Complex Physical Systems},
+  author={Wei, Long and Hu, Peiyan and Feng, Ruiqi and Feng, Haodong and Du, Yixuan and Zhang, Tao and Wang, Rui and Wang, Yue and Ma, Zhi-Ming and Wu, Tailin},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+  year={2024},
+  url={https://openreview.net/forum?id=MbZuh8L0Xg}
 }
 ```
